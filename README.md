@@ -1,5 +1,5 @@
 # DatAgora_Geonum_20
 
-| #Couche | #Disponibilité | #Data |
+| Couche | Disponibilité | Data |
 |:-:|:-:|:-:|
 | D | E | F |
