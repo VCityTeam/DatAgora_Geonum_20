@@ -10,6 +10,6 @@
 | Voies piétonnes | Oui | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/chaussees-trottoirs-metropole-lyon/donnees) |
 | Réseau électrique | Oui | DICT |
 | Mobilier urbain | Oui mais > 2m^2 | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/mobilier-urbain-metropole-lyon/info) |
-| Type de revêtement | E | F |
+| Type de revêtement | Oui | Couche EVA 2009 |
 | Réseaux de télécommunication | Oui | DICT |
 | Arbres existants | Uniquement arbres d'alignement | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/arbres-alignement-metropole-lyon/donnees) |
