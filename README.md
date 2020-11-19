@@ -39,10 +39,20 @@ Quels éléments peuvent conditionner la position d’un arbre en milieu urbain 
 | Indice de canopée | Oui | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/parcs-places-jardins-indice-canopee-metropole-lyon/info)|
 
 
-**_L'envrionnement paysager_**
+**_L'environnement paysager_**
+
+| Couche | Disponibilité | Data |
+|:-:|:-:|:-:|
+| Travaux en perspective | Oui | Data | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/prevision-travaux-metropole-lyon/donnees) + DICT
+| Zones patrimoniales | Oui | [DataGrandLyon](https://pluh.grandlyon.com/)|
 
 
+**_La réglementation_**
 
+| Couche | Disponibilité | Data |
+|:-:|:-:|:-:|
+| Limites espaces public/privé | Oui | Cadastre Lyon |
+| Zones patrimoniales | Oui | [DataGrandLyon](https://pluh.grandlyon.com/)|
 
 
 
