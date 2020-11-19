@@ -1,6 +1,8 @@
 # DatAgora_Geonum_20
 
+
 Quels éléments peuvent conditionner la position d’un arbre en milieu urbain ?
+
 
 **_L'espace libre en surface_**
 
@@ -19,6 +21,7 @@ Quels éléments peuvent conditionner la position d’un arbre en milieu urbain 
 | Arbres existants | Uniquement arbres d'alignement | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/arbres-alignement-metropole-lyon/donnees) |
 
 
+
 **_L'espace libre en souterrain_**
 
 | Couche | Disponibilité | Data |
@@ -30,6 +33,7 @@ Quels éléments peuvent conditionner la position d’un arbre en milieu urbain 
 | Réseau de gaz| Oui | DICT |
 
 
+
 **_L'envrionnement climatique/météorologique_**
 
 | Couche | Disponibilité | Data |
@@ -39,12 +43,14 @@ Quels éléments peuvent conditionner la position d’un arbre en milieu urbain 
 | Indice de canopée | Oui | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/parcs-places-jardins-indice-canopee-metropole-lyon/info)|
 
 
+
 **_L'environnement paysager_**
 
 | Couche | Disponibilité | Data |
 |:-:|:-:|:-:|
 | Travaux en perspective | Oui | Data | [DataGrandLyon](https://data.grandlyon.com/jeux-de-donnees/prevision-travaux-metropole-lyon/donnees) + DICT
 | Zones patrimoniales | Oui | [DataGrandLyon](https://pluh.grandlyon.com/)|
+
 
 
 **_La réglementation_**
