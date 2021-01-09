@@ -2,7 +2,6 @@
 
 **Interrogrations sur les espaces disponibles en surface**
 
-<p float="center">
-<img src="https://github.com/VCityTeam/DatAgora_Geonum_20/image/interrogations_espaces_surface.JPG" alt="Home"
-width="400"/>
-</p>
+
+
+<img width="250" alt="interrogations_espaces_surface" src="image/interrogations_espaces_surface.JPG">
