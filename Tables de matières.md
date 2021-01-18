@@ -2,8 +2,8 @@
 
 
 I. [Dans quelles démarches s’inscrit le projet DatAgora ?](#I)
-  A. [Les partenaires du projet](#IA)
-      1. [ERASME](#IA1)
+  1. [Les partenaires du projet](#IA)
+      2. [ERASME](#IA1)
         
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
