@@ -1,5 +1,3 @@
-<a name="IIA3"></a>
-
 # Quels éléments peuvent conditionner la position d’un arbre en milieu urbain ?
 
 
