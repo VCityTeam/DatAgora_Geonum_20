@@ -3,7 +3,10 @@
 
 I. [Dans quelles démarches s’inscrit le projet DatAgora ?](#I)
    1. [Les partenaires du projet](#IA)
-       1. [ERASME](#IA1)
+       1. [L'université Lyon 2](#IA1)
        1. [Charte de l’arbre](#IA2)
+       1. [ERASME](#IA3)
+       
+       
         
 
