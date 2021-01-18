@@ -29,12 +29,15 @@ II. [Constitution et caractérisation de notre base de données](#II)
        1. [Les données “privées”](#IIA2)
        1. [Tableau des données](#IIA3)
        
-   2. [Les objectifs du projet](#IB)
-       1. [Description du projet](#IB1)
-   3. [Caractérisation du projet](#IC)
-       1. [Comment faire de la prospection ?](#IC1)
-       1. [Mise en place d’une problématique](#IC2)
-       1. [Pistes de réflexion](#IC3)
+   2. [Mise en place d’une méthodologie](#IIB)
+   
+   
+III. [Constitution et caractérisation de notre base de données](#III)
+       1. [Les données disponibles en Open Source](#IIIA)
+       1. [Les données “privées”](#IIIB)
+       1. [Tableau des données](#IIIC)
+       
+ 
        
        
         
