@@ -33,10 +33,22 @@ II. [Constitution et caractérisation de notre base de données](#II)
    
    
 III. [Constitution et caractérisation de notre base de données](#III)
-       1. [Les données disponibles en Open Source](#IIIA)
-       1. [Les données “privées”](#IIIB)
-       1. [Tableau des données](#IIIC)
-       
+
+   1. [Ajout des couches et pré-traitement](#IIIA)
+   
+   1. [Application de la méthodologie et géo-traitements](#IIIB)
+   
+   1. [Couche finale](#IIIC)
+   
+   
+IV. [Résultats](#IV) 
+
+   1. [Interprétation](#IVA)
+   
+   1. [Ouverture](#IVB)
+   
+   
+V. [Visualisation des données](#V)       
  
        
        
