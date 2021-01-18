@@ -6,8 +6,9 @@ I. [Dans quelles démarches s’inscrit le projet DatAgora ?](#I)
    1. [Les partenaires du projet](#IA)
    
        1. [L'université Lyon 2](#IA1)
-       1. [Charte de l’arbre](#IA2)
-       1. [ERASME](#IA3)
+       1. [La Métropole de Lyon](#IA2)
+       1. [Charte de l’arbre](#IA3)
+       1. [Erasme Urban Lab](#IA4)
        
    2. [Les objectifs du projet](#IB)
    
