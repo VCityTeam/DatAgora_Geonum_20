@@ -1,6 +1,3 @@
-## DatAgora_Geonum_20
-
-
 #Quels éléments peuvent conditionner la position d’un arbre en milieu urbain ?
 
 
