@@ -1,1 +1,1 @@
-<img width="500" alt="Reflexion" src="Image/Reflexion.JPG">
+<img width="600" alt="Reflexion" src="Image/Reflexion.JPG">
